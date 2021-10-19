@@ -81,7 +81,7 @@ const Main = (props) => {
                           <span>{article.actor.title}</span>
 <span>{article.actor.description}</span>
                               <span>{article.actor.date.toDate().toLocaleDateString()}</span>
-                        </div>
+                        </div> 
                     </a>
                     <MoreHorizIcon />
                 </ShareActor>
